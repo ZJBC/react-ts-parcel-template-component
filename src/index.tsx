@@ -1,4 +1,4 @@
-import './styles.scss'
+import './style.scss'
 import * as React from "react";
 
 export default function () {
